@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "elliptic": "^6.5.4"
+    "chai": "^4.3.7",
+    "elliptic": "^6.5.4",
+    "mocha": "^10.2.0",
+    "ws": "^8.11.0"
   }
 }
